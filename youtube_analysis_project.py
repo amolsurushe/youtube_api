@@ -12,7 +12,7 @@ from googleapiclient.discovery import build
 import pandas as pd
 
 # api key that I choose
-api_key ='AIzaSyC2WDD8dTO6dphbTSuMaUELDvSkonkB-Gg'
+api_key = #insert api key
 # Videos ids
 video_ids = ['lEljKc9ZtU8',
             'YcqVWFZXyaE',
